@@ -14,8 +14,10 @@ The Healthy Life App is an all-in-one platform designed to empower individuals i
 - Progress Analytics
 
 ## _Goals_
+
 ## _Goals_
-## _Goals_v## _Goals_## _Goals_j
+
+## _Goals_v## \_Goals_## \_Goals_j
 
 - Personalized Nutrition Plans: Tailored meal plans based on user preferences, dietary restrictions, and health goals.
 - Fitness Tracking: Tools for logging workouts, tracking progress, and providing exercise recommendations
@@ -35,3 +37,7 @@ The Healthy Life App is an all-in-one platform designed to empower individuals i
 - get ready
 
 2222222
+- get fit
+- get ready
+- get fit
+- get ready
